@@ -1,7 +1,7 @@
 # Western Digital x MUMTEC-36H-Hackathon 2024-
-# [Team Name] – MUMTEC Hackathon 2024 Submission
+# Beningging – MUMTEC Hackathon 2024 Submission
 
-## Project Title: [Insert Project Name]
+## Project Title: AI help you
 
 ### Table of Contents
 1. [Project Overview](#project-overview)
@@ -18,8 +18,9 @@
 ### Project Overview
 [Provide a brief description of your project. Include the problem you are solving, your approach, and the impact of your solution.]
 
-- **Problem Statement**: [Briefly describe the problem or challenge your project addresses.]
-- **Proposed Solution**: [Describe your AI-powered solution, highlighting its key features and benefits.]
+- **Problem Statement**: Traditional firmware development processes are slow and error-prone, often failing to anticipate real-world user behaviors and environmental conditions that lead to costly post-deployment issues
+
+- **Proposed Solution**: AI-Driven CI/CD for Firmware Development
 
 ---
 
