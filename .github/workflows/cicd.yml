@@ -29,5 +29,5 @@ jobs:
 
       - name: Run tests
         run: |
-          venvat
-          pytest
+            source venv/bin/activate
+            pytest
